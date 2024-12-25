@@ -1,4 +1,4 @@
-# Nombre del Proyecto
+# Contador de Calorias
 
 Aplicacion que se encarga de trackear las calorias, tanto su consumo como la quema,
 utlizando un form para el agregado como la edicion de las mismas
